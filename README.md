@@ -2,11 +2,9 @@
 
 * Xin chào tất cả các bạn!
 
-
-
 ## Authors
 
-- [@kudovisual](https://www.github.com/kudovisual)
+- [@kudovisual](https://www.github.com/kudojpv)
 
 
 ## License
