@@ -1,3 +1,4 @@
+![logo](./assets/favicon.png)
 # kudopjv
 
 * Xin chào tất cả các bạn!
@@ -12,3 +13,7 @@
 
 ## 🚀 About
 Một tổ chức...?
+
+## Screenshot
+Đây là ảnh web bị sập:
+![screenshot](./assets/bisap/screenshot.png)
