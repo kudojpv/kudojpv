@@ -1,4 +1,4 @@
-![logo](./assets/favicon.png)
+![logo](./assets/favicon.jpg)
 # kudopjv
 
 * Xin chào tất cả các bạn!
